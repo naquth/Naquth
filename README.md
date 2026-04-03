@@ -2,28 +2,21 @@
 <!--               ✦ NAQUTH — GitHub Profile README             -->
 <!-- ============================================================ -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1035,100:0d1117&height=180&section=header&text=Naquth&fontSize=72&fontColor=c9b8ff&fontAlignY=55&desc=Full%20Stack%20Developer&descSize=16&descAlignY=78&descColor=5c4fa0&animation=fadeIn&stroke=8A7CFF&strokeWidth=1" width="100%"/>
-</div>
-
-<br/>
-
 <!-- ─── ABOUT ME ─── -->
 
 <div align="center">
-  <div>
 
 ### 💫 About Me
 
-  </div>
 </div>
 
 <div align="center">
 
-<table border="0" style="border-collapse:collapse;">
-<tr><td align="center">
+<table border="0"><tr><td align="center">
 
-<img src="https://img.shields.io/badge/-%20Hi%2C%20I'm%20Naquth%20👋-1a1035?style=for-the-badge&labelColor=1a1035&color=1a1035"/>
+<img src="https://img.shields.io/badge/-HI%2C%20I'M%20NAQUTH%20👋-1a1035?style=for-the-badge&labelColor=1a1035&color=1a1035"/>
+
+<br/><br/>
 
 💼 **Full Stack Developer** — building end-to-end web products with precision.<br/>
 ⚙️ Skilled in **React · Next.js · Node.js · TypeScript**<br/>
@@ -37,8 +30,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@Naquth-8A7CFF?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://twitter.com/Naquth)
 [![Email](https://img.shields.io/badge/Email-naquth@gmail.com-8A7CFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:naquth@gmail.com)
 
-</td></tr>
-</table>
+</td></tr></table>
 
 </div>
 
@@ -114,7 +106,7 @@
 
 ### 🏆 GitHub Trophy Showcase
 
-<img src="https://github-profile-trophy.vercel.app/?username=Naquth&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Naquth&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12"/>
 
 </div>
 
@@ -128,7 +120,7 @@
 
 **💫 Overview**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Naquth&theme=github_dark&show_icons=true&rank_icon=github&bg_color=0d1117&border_color=8A7CFF&icon_color=8A7CFF&title_color=c9b8ff&text_color=8877cc&count_private=true&border_radius=12"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Naquth&theme=tokyonight&show_icons=true&rank_icon=github&bg_color=0d1117&border_color=8A7CFF&icon_color=8A7CFF&title_color=c9b8ff&text_color=8877cc&count_private=true&border_radius=12"/>
 
 ---
 
@@ -152,7 +144,7 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naquth&theme=tokyo-night&bg_color=0d1117&color=8A7CFF&line=5c4fa0&point=c9b8ff&area=true&area_color=1a1035&hide_border=false&border_color=8A7CFF&radius=8"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naquth&theme=tokyo-night&bg_color=0d1117&color=8A7CFF&line=5c4fa0&point=c9b8ff&area=true&area_color=1a1035&hide_border=false&border_color=8A7CFF&radius=8" width="95%"/>
 
 ---
 
@@ -184,14 +176,10 @@
 
 <img src="https://count.getloli.com/@Naquth?theme=asoul"/>
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Naquth&style=flat-square&color=8A7CFF&labelColor=0d1117&label=profile+views)
-
 </div>
 
 <!-- ─── FOOTER ─── -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1035,100:0d1117&height=120&section=footer&text=&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1035,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
