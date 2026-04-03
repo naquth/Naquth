@@ -1,22 +1,14 @@
-<!-- ============================================================ -->
-<!--               ✦ NAQUTH — GitHub Profile README             -->
-<!-- ============================================================ -->
-
-<!-- ─── ABOUT ME ─── -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  NAQUTH · GitHub Profile                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 💫 About Me
+# 💫 About Me
 
-</div>
+---
 
-<div align="center">
-
-<table border="0"><tr><td align="center">
-
-<img src="https://img.shields.io/badge/-HI%2C%20I'M%20NAQUTH%20👋-1a1035?style=for-the-badge&labelColor=1a1035&color=1a1035"/>
-
-<br/><br/>
+### Hi, I'm **Naquth** 👋
 
 💼 **Full Stack Developer** — building end-to-end web products with precision.<br/>
 ⚙️ Skilled in **React · Next.js · Node.js · TypeScript**<br/>
@@ -30,7 +22,15 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@Naquth-8A7CFF?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://twitter.com/Naquth)
 [![Email](https://img.shields.io/badge/Email-naquth@gmail.com-8A7CFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:naquth@gmail.com)
 
-</td></tr></table>
+</div>
+
+---
+
+<!-- ─── TYPING ANIMATION ─── -->
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3000&pause=1500&color=8A7CFF&center=true&vCenter=true&width=500&lines=Building+products+from+idea+to+deployment.;Frontend+precision.+Backend+reliability.;Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,9 +42,9 @@
 
 ### 🧩 Discord Presence
 
-<img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=Probably+coding+something...&animated=true&hideDiscrim=true&borderColor=8A7CFF"/>
+[![Discord Presence](https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=Probably+coding+something...&animated=true&hideDiscrim=true&borderColor=8A7CFF)](https://discord.com/users/YOUR_DISCORD_ID)
 
-> 🔁 Replace `YOUR_DISCORD_ID` with your real Discord user ID
+> Replace `YOUR_DISCORD_ID` with your real Discord user ID
 
 </div>
 
@@ -56,11 +56,9 @@
 
 ### 🎧 Spotify — Recently Played
 
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID" target="_blank">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=4&width=480&unique=true&border_radius=12&show_time=true&background_color=0d1117&border_color=8A7CFF"/>
-</a>
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=4&width=480&unique=true&border_radius=12&show_time=true&background_color=0d1117&border_color=8A7CFF)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
-> 🔁 Replace `YOUR_SPOTIFY_ID` with your Spotify user ID
+> Replace `YOUR_SPOTIFY_ID` with your Spotify user ID
 
 </div>
 
@@ -106,7 +104,7 @@
 
 ### 🏆 GitHub Trophy Showcase
 
-<img src="https://github-profile-trophy.vercel.app/?username=Naquth&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Naquth&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12)](https://github.com/Naquth)
 
 </div>
 
@@ -120,37 +118,34 @@
 
 **💫 Overview**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Naquth&theme=tokyonight&show_icons=true&rank_icon=github&bg_color=0d1117&border_color=8A7CFF&icon_color=8A7CFF&title_color=c9b8ff&text_color=8877cc&count_private=true&border_radius=12"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naquth&theme=tokyonight&show_icons=true&rank_icon=github&bg_color=0d1117&border_color=8A7CFF&icon_color=8A7CFF&title_color=c9b8ff&text_color=8877cc&count_private=true&border_radius=12)](https://github.com/Naquth)
 
 ---
 
 **🌐 Most Used Languages**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naquth&theme=tokyonight"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naquth&theme=tokyonight"/>
+[![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naquth&theme=tokyonight)](https://github.com/Naquth)
+[![Commit per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naquth&theme=tokyonight)](https://github.com/Naquth)
 
 ---
 
 **⏰ Productivity Timeline**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naquth&theme=tokyonight&utcOffset=7"/>
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naquth&theme=tokyonight&utcOffset=7)](https://github.com/Naquth)
 
 ---
 
 **🔥 Streak & Contributions**
 
-<img src="https://streak-stats.demolab.com?user=Naquth&theme=tokyonight&ring=8A7CFF&fire=8A7CFF&currStreakLabel=c9b8ff&sideLabels=8A7CFF&border=1a1035&background=0d1117&stroke=1a1035"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Naquth&theme=tokyonight&ring=8A7CFF&fire=8A7CFF&currStreakLabel=c9b8ff&sideLabels=8A7CFF&border=1a1035&background=0d1117&stroke=1a1035)](https://github.com/Naquth)
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naquth&theme=tokyo-night&bg_color=0d1117&color=8A7CFF&line=5c4fa0&point=c9b8ff&area=true&area_color=1a1035&hide_border=false&border_color=8A7CFF&radius=8" width="95%"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naquth&theme=tokyo-night&bg_color=0d1117&color=8A7CFF&line=5c4fa0&point=c9b8ff&area=true&area_color=1a1035&border_color=8A7CFF&radius=8)](https://github.com/Naquth)
 
 ---
 
 **🧠 Profile Summary**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naquth&theme=tokyonight"/>
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naquth&theme=tokyonight)](https://github.com/Naquth)
 
 </div>
 
@@ -162,7 +157,7 @@
 
 ### 💬 Quote of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -174,7 +169,7 @@
 
 ### 👁️ Visitor Counter
 
-<img src="https://count.getloli.com/@Naquth?theme=asoul"/>
+[![Visitor Count](https://count.getloli.com/@Naquth?theme=asoul)](https://github.com/Naquth)
 
 </div>
 
