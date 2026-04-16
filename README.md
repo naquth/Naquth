@@ -1,13 +1,3 @@
-<div align="center">
-
-![Banner](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Naquth&desc=Creative%20Developer%20%26%20Designer&fontAlign=50&fontSize=90&descSize=20&descAlignY=55&descAlign=50&fontAlignY=40)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cabinet+Grotesk&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=I+build+digital+things+that+matter;Full-Stack+Developer+%26+Designer;Crafting+clean+and+modern+experiences;Welcome+to+my+space"/>
-</p>
-
-</div>
-
 ---
 
 ## 💎 About Me
