@@ -76,9 +76,3 @@ If you like my work or find it useful:
 [![Saweria](https://img.shields.io/badge/Saweria-FFDD00?style=for-the-badge&logo=kofi&logoColor=black)](#)
 
 ---
-
-<div align="center">
-
-✨ Built with care & obsession ✨  
-
-</div>
