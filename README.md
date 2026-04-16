@@ -1,5 +1,3 @@
----
-
 ## 💎 About Me
 
 Hi — I'm **Naquth**  
@@ -66,7 +64,7 @@ I can help with:
 Got a project in mind?
 
 - 📧 Email: **contact@naquth.qzz.io**
-- 🌐 Portfolio: *(your deployed site here)*
+- 🌐 Portfolio: *https://naquth.is-a.dev*
 
 ---
 
