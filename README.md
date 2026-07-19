@@ -1,6 +1,6 @@
 ## 💎 About Me
 
-Hi — I'm **Naquths**  
+Hi — I'm **Naquth**  
 
 A full-stack developer who focuses on **clarity, performance, and design precision**.
 
