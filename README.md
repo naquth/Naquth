@@ -1,4 +1,4 @@
-## 💎 About Me
+## 💎 About Mee
 
 Hi — I'm **Naquth**  
 
