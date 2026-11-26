@@ -18,11 +18,11 @@
 <div align="center">
     <h2>💻 Profile Stats</h2>
     <a href="https://naquth.my.id" target="_blank">
-        <img src="https://lanyard.cnrad.dev/api/1483987111601377390?theme=dark&bg=000000" alt="Discord Status"/>
+        <img src="https://lanyard.cnrad.dev/api/1483987111601377390?theme=dark&bg=000000&hideActivity=whenNotUsed&borderRadius=10px" alt="Discord Status" width="410"/>
     </a>
-    <br/>
+    <br/><br/>
     <a href="https://widgets.1ceit.com/naquth/spotify?open" target="_blank">
-        <img src="https://widgets.1ceit.com/naquth/spotify" alt="Spotify Now Playing"/>
+        <img src="https://widgets.1ceit.com/naquth/spotify" alt="Spotify Now Playing" width="410"/>
     </a>
 </div>
 
