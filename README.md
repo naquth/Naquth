@@ -157,11 +157,15 @@ Web developer at [Naquth](https://naquth.my.id) — I design and build websites,
 <div align="center">
     <h2>📊 GitHub Stats</h2>
     <a href="https://github.com/naquth" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=naquth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=naquth&bg_color=000000&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&border_color=2a2a2a&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
     </a>
     <br/>
     <a href="https://github.com/naquth" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=naquth&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=naquth&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=a1a1aa&dates=a1a1aa&border=2a2a2a&stroke=2a2a2a" alt="GitHub Streak Stats"/>
+    </a>
+    <br/>
+    <a href="https://github.com/naquth" target="_blank">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=naquth&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&title_color=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
     </a>
 </div>
 
