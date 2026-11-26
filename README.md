@@ -20,7 +20,7 @@
     <a href="https://naquth.my.id" target="_blank">
         <img src="https://lanyard.cnrad.dev/api/1483987111601377390?theme=dark&bg=000000&hideActivity=whenNotUsed&borderRadius=10px" alt="Discord Status" width="410"/>
     </a>
-    <br/><br/>
+    <br/>
     <a href="https://widgets.1ceit.com/naquth/spotify?open" target="_blank">
         <img src="https://widgets.1ceit.com/naquth/spotify" alt="Spotify Now Playing" width="410"/>
     </a>
@@ -33,11 +33,11 @@
     <a href="https://github.com/naquth" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=naquth&bg_color=000000&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&border_color=2a2a2a&border_radius=10&include_all_commits=true&count_private=true&show_icons=true&hide=stars,issues&show=prs_merged_percentage" alt="GitHub Stats" width="410"/>
     </a>
-    <br/><br/>
+    <br/>
     <a href="https://github.com/naquth" target="_blank">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=naquth&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=a1a1aa&dates=a1a1aa&border=2a2a2a&stroke=2a2a2a&border_radius=10" alt="GitHub Streak Stats" width="410"/>
     </a>
-    <br/><br/>
+    <br/>
     <a href="https://github.com/naquth" target="_blank">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=naquth&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&hide_title=true&radius=10" alt="GitHub Activity Graph" width="410"/>
     </a>
@@ -49,5 +49,5 @@
 
 <div align="center">
     <h2>👀 Visitor Counter</h2>
-    <img src="https://komarev.com/ghpvc/?username=naquth&label=VISITORS&color=1a1a1a&style=for-the-badge&base=48" alt="Visitor Counter"/>
+    <img src="https://hits.sh/github.com/naquth.svg?style=for-the-badge&label=VISITORS&color=1a1a1a&labelColor=000000&extraCount=69" alt="Visitor Counter"/>
 </div>
