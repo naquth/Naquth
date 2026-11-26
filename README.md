@@ -1,30 +1,51 @@
 
-# 💫 About Me
+<h1 align="center">Hi, I'm Naquth 👋</h1>
+
+<p align="center">
+  <b>Design. Build. Launch.</b><br/>
+  Web development studio that builds company sites, web apps, and online stores,<br/>
+  then keeps them healthy after launch.
+</p>
+
+<p align="center">
+  <a href="https://naquth.my.id"><img src="https://img.shields.io/badge/Website-naquth.my.id-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <img src="https://img.shields.io/badge/Status-Taking%20new%20projects-22c55e?style=for-the-badge" alt="Status"/>
+  <a href="https://github.com/naquth"><img src="https://img.shields.io/badge/GitHub-naquth-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<br/>
+
 <div align="center">
-    <p>
-        Currently working at <a href="https://naquth.my.id" target="_blank"><b>Naquth</b></a>
-    </p>
-    <p>
-        <b>🌱 Currently Learning:</b> 
-        <a href="https://go.dev/" target="_blank" style="color:#00ADD8;"><b>Go</b></a>, 
-        <a href="https://www.rust-lang.org/" target="_blank" style="color:#f7df1e;"><b>Rust</b></a> & 
-        <a href="https://www.java.com/" target="_blank" style="color:#007acc;"><b>Java</b></a>
-    </p>
-    <p>
-        <div style="display: flex; align-items: center; justify-content: center; gap: 8px; margin-bottom: 2px;">
-            <span style="font-size:1.2em;">🔥</span>
-            <span style="font-weight: bold; font-size:1.1em;">Discord Bot:</span>
-            <a href="https://seyfert.dev" target="_blank" style="display:inline-block; background:#222; border-radius:8px; padding:2px 6px;">
-                <img src="https://mjba.my/Seyfert.svg" alt="Seyfert" height="28" style="vertical-align:middle; border-radius:6px;"/>
-            </a>
-            <a href="https://discord.js.org/" target="_blank" style="display:inline-block; background:#222; border-radius:8px; padding:2px 6px;">
-                <img src="https://skillicons.dev/icons?i=discordjs" alt="Discord.js" height="28" style="vertical-align:middle; border-radius:6px;"/>
-            </a>
-        </div>
-        <span style="font-size:smaller;">(Still a beginner)</span>
-    </p>
+
+| | |
+|:--|:--|
+| 🏢 **Studio** | [Naquth](https://naquth.my.id) |
+| 🛠️ **What I do** | Company websites · Web apps · Online stores · UI/UX · Maintenance |
+| 💬 **Let's talk** | First consultation is free → [naquth.my.id](https://naquth.my.id) |
+
 </div>
 
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="320">
+      <h3>🌱 Currently Learning</h3>
+      <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" height="48" alt="Go"/></a>
+      <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" height="48" alt="Rust"/></a>
+      <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="48" alt="Java"/></a>
+      <br/><sub>Go · Rust · Java</sub>
+    </td>
+    <td align="center" width="320">
+      <h3>🤖 Discord Bots</h3>
+      <a href="https://seyfert.dev"><img src="https://img.shields.io/badge/Seyfert-5865F2?style=for-the-badge" alt="Seyfert"/></a>
+      <a href="https://discord.js.org/"><img src="https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord.js"/></a>
+      <br/><sub>Built with Seyfert &amp; discord.js</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
 
 # 💻 Tech Stack:
 <div align="center">
