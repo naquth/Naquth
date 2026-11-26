@@ -173,5 +173,5 @@ Web developer at [Naquth](https://naquth.my.id) — I design and build websites,
 </div>
 
 <div align="center">
-    <img src="https://count.getloli.com/@:naquth?theme=capoo-1&length=7" alt="Visitor Counter"/>
+    <img src="https://count.getloli.com/@:naquth?theme=asoul&length=7" alt="Visitor Counter"/>
 </div>
