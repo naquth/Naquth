@@ -11,31 +11,17 @@
 </div>
 
 <div align="center">
-    <img src="./assets/heading-profile-stats-v1.svg" alt="Profile Stats" width="410" />
+    <img src="./assets/heading-profile-stats-v2.svg" alt="Profile Stats" width="480" />
     <br/>
-    <a href="https://naquth.my.id" target="_blank">
-        <img src="https://lanyard.cnrad.dev/api/1483987111601377390?theme=dark&bg=000000&hideActivity=whenNotUsed&borderRadius=10px" alt="Discord Status" width="410"/>
-    </a>
+    <a href="https://discord.com/users/1483987111601377390" target="_blank"><img src="./assets/connect-discord-v1.svg" alt="Discord" width="480" /></a>
     <br/>
-    <a href="https://open.spotify.com/user/31ujd54xt3ft6dcnvgge4nnlo3zq" target="_blank">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ujd54xt3ft6dcnvgge4nnlo3zq&theme=compact&background_color=000000&bar_color=ffffff&border_radius=10&show_offline=true" alt="Spotify Now Playing" width="410"/>
-    </a>
+    <a href="https://open.spotify.com/user/31ujd54xt3ft6dcnvgge4nnlo3zq" target="_blank"><img src="./assets/connect-spotify-v1.svg" alt="Spotify" width="480" /></a>
 </div>
 
 <div align="center">
-    <img src="./assets/heading-github-stats-v1.svg" alt="GitHub Stats" width="410" />
+    <img src="./assets/heading-github-stats-v2.svg" alt="GitHub Stats" width="480" />
     <br/>
-    <a href="https://github.com/naquth" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=naquth&bg_color=000000&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&border_color=2a2a2a&border_radius=10&include_all_commits=true&count_private=true&show_icons=true&hide=stars,issues&show=prs_merged_percentage" alt="GitHub Stats" width="410"/>
-    </a>
-    <br/>
-    <a href="https://github.com/naquth" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=naquth&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=a1a1aa&dates=a1a1aa&border=2a2a2a&stroke=2a2a2a&border_radius=10" alt="GitHub Streak Stats" width="410"/>
-    </a>
-    <br/>
-    <a href="https://github.com/naquth" target="_blank">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=naquth&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&hide_title=true&radius=10" alt="GitHub Activity Graph" width="410"/>
-    </a>
+    <a href="https://github.com/naquth" target="_blank"><img src="./assets/github-stats.svg" alt="GitHub Stats" width="480" /></a>
 </div>
 
 <div align="center">
