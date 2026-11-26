@@ -28,4 +28,7 @@
     <img src="./assets/heading-visitor-counter-v1.svg" alt="Visitor Counter" width="410" />
     <br/>
     <img src="https://count.getloli.com/@:naquth?theme=original-new&length=7" alt="Visitor Counter" width="410"/>
+    <!-- After deploying the visitors worker (separate zip): replace the img above with
+    <img src="https://naquth-visitors.YOUR-SUBDOMAIN.workers.dev/visitors/naquth.svg" alt="Visitor Counter" width="480" />
+    and set the heading-visitor-counter width to 480. -->
 </div>
