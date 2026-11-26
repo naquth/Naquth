@@ -1,14 +1,13 @@
 
-<img src="./assets/profile-banner.svg" alt="Naquth - Web Developer" width="100%" />
+<img src="./assets/profile-banner-v2.svg" alt="Naquth - Web Developer" width="100%" />
 
 <p align="center">
-  <a href="https://naquth.my.id"><img src="./assets/badge-website.svg" alt="Website" height="40" /></a>
-  <a href="https://github.com/naquth"><img src="./assets/badge-github.svg" alt="GitHub" height="40" /></a>
+  <a href="https://naquth.my.id"><img src="./assets/badge-website-v2.svg" alt="Website" width="132" height="34" /></a>
+  <a href="https://github.com/naquth"><img src="./assets/badge-github-v2.svg" alt="GitHub" width="132" height="34" /></a>
 </p>
 
 ---
 
-# 💻 Tech Stack:
 <div align="center">
     <h2>💻 Tech Stack</h2>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><picture>
