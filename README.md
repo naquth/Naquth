@@ -173,5 +173,5 @@ Web developer at [Naquth](https://naquth.my.id) — I design and build websites,
 
 <div align="center">
     <h3>👀 Visitor Counter</h3>
-    <img src="https://count.getloli.com/@:naquth?theme=booru-yuyuyui&length=7" alt="Visitor Counter"/>
+    <img src="https://count.getloli.com/@:naquth?theme=original-new&length=7" alt="Visitor Counter"/>
 </div>
