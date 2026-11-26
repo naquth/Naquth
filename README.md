@@ -31,21 +31,23 @@
 <div align="center">
     <h2>📊 GitHub Stats</h2>
     <a href="https://github.com/naquth" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=naquth&bg_color=000000&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&border_color=2a2a2a&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=naquth&bg_color=000000&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&border_color=2a2a2a&border_radius=10&include_all_commits=true&count_private=true&show_icons=true&hide=stars,issues&show=prs_merged_percentage" alt="GitHub Stats" width="410"/>
     </a>
-    <br/>
+    <br/><br/>
     <a href="https://github.com/naquth" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=naquth&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=a1a1aa&dates=a1a1aa&border=2a2a2a&stroke=2a2a2a" alt="GitHub Streak Stats"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=naquth&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=a1a1aa&dates=a1a1aa&border=2a2a2a&stroke=2a2a2a&border_radius=10" alt="GitHub Streak Stats" width="410"/>
     </a>
-    <br/>
+    <br/><br/>
     <a href="https://github.com/naquth" target="_blank">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=naquth&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&title_color=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=naquth&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&hide_title=true&radius=10" alt="GitHub Activity Graph" width="410"/>
     </a>
 </div>
 
 
 
+---
+
 <div align="center">
-    <h3>👀 Visitor Counter</h3>
-    <img src="https://count.getloli.com/@:naquth?theme=original-new&length=7" alt="Visitor Counter"/>
+    <h2>👀 Visitor Counter</h2>
+    <img src="https://komarev.com/ghpvc/?username=naquth&label=VISITORS&color=1a1a1a&style=for-the-badge&base=48" alt="Visitor Counter"/>
 </div>
