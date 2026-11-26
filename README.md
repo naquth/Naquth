@@ -21,7 +21,7 @@
 <div align="center">
     <img src="./assets/heading-github-stats-v2.svg" alt="GitHub Stats" width="480" />
     <br/>
-    <a href="https://github.com/naquth" target="_blank"><img src="./assets/github-stats.svg" alt="GitHub Stats" width="480" /></a>
+    <a href="https://github.com/naquth" target="_blank"><img src="https://worker.naquth.workers.dev/stats/naquth.svg" alt="GitHub Stats" width="480" /></a>
 </div>
 
 <div align="center">
