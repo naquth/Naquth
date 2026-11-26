@@ -1,15 +1,10 @@
 
-<div align="center">
+<img src="./assets/profile-banner.svg" alt="Naquth - Web Developer" width="100%" />
 
-## Hi, I'm Naquth 👋
-
-Web developer at [Naquth](https://naquth.my.id) — I design and build websites, web apps, and online stores.
-
-🛠️ Company websites · Web apps · Online stores · UI/UX · Maintenance<br/>
-💬 First consultation is free<br/>
-🌐 [naquth.my.id](https://naquth.my.id)
-
-</div>
+<p align="center">
+  <a href="https://naquth.my.id"><img src="https://img.shields.io/badge/Website-naquth.my.id-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000&color=1a1a1a" alt="Website" /></a>
+  <a href="https://github.com/naquth"><img src="https://img.shields.io/badge/GitHub-naquth-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=1a1a1a" alt="GitHub" /></a>
+</p>
 
 ---
 
@@ -224,12 +219,6 @@ Web developer at [Naquth](https://naquth.my.id) — I design and build websites,
     <a href="https://widgets.1ceit.com/naquth/spotify?open" target="_blank">
         <img src="https://widgets.1ceit.com/naquth/spotify" alt="Spotify Now Playing"/>
     </a>
-    <br/>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naquth/naquth/output/snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naquth/naquth/output/snake.svg">
-        <img src="https://raw.githubusercontent.com/naquth/naquth/output/snake-dark.svg" alt="Snake animation"/>
-    </picture>
 </div>
 
 ---
