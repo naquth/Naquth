@@ -1,0 +1,89 @@
+<svg width="856" height="540" viewBox="0 0 856 540" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+  <title id="t">Naquth Business Card</title>
+  <desc id="d">Black metallic card styled like a credit card with the name Naquth, Full Stack Developer, website and GitHub.</desc>
+  <style>
+    .sheen { animation: sw 6s ease-in-out infinite; }
+    .pulse { animation: pl 2s ease-in-out infinite; }
+    @keyframes sw { 0%,100% { transform: translateX(-420px); opacity:0; } 15% { opacity:1; } 50% { transform: translateX(420px); opacity:1; } 65% { opacity:0; } }
+    @keyframes pl { 0%,100% { opacity:1; } 50% { opacity:.25; } }
+    text { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'SF Mono','Courier New',monospace; }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="856" y2="540" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2A2A2A"/>
+      <stop offset="0.45" stop-color="#0B0B0B"/>
+      <stop offset="1" stop-color="#1F1F1F"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="856" y2="540" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white" stop-opacity="0.55"/>
+      <stop offset="0.5" stop-color="white" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="white" stop-opacity="0.3"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F2F2F2"/><stop offset="0.5" stop-color="#A8A8A8"/><stop offset="1" stop-color="#E0E0E0"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="white" stop-opacity="0"/><stop offset="0.5" stop-color="white" stop-opacity="0.14"/><stop offset="1" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(700 90) scale(420 300)">
+      <stop stop-color="white" stop-opacity="0.16"/><stop offset="1" stop-color="white" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="c"><rect width="856" height="540" rx="40"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#c)">
+    <rect width="856" height="540" fill="url(#bg)"/>
+    <rect width="856" height="540" fill="url(#glow)"/>
+    <!-- guilloche-style rings -->
+    <g stroke="white" stroke-opacity="0.05" stroke-width="1.5">
+      <circle cx="720" cy="300" r="120"/><circle cx="720" cy="300" r="160"/><circle cx="720" cy="300" r="200"/><circle cx="720" cy="300" r="240"/><circle cx="720" cy="300" r="280"/>
+    </g>
+    <g class="sheen"><rect x="400" y="-40" width="160" height="620" fill="url(#shine)" transform="rotate(18 480 270)"/></g>
+  </g>
+  <rect x="1" y="1" width="854" height="538" rx="39" stroke="url(#edge)" stroke-width="2"/>
+
+  <!-- top row: brand + contactless -->
+  <text x="56" y="84" fill="white" font-size="26" font-weight="700" letter-spacing="6">NAQUTH</text>
+  <circle cx="56" cy="108" r="0"/>
+  <g transform="translate(776 70)" stroke="white" stroke-opacity="0.85" stroke-width="4" stroke-linecap="round" fill="none">
+    <path d="M0 -20Q14 0 0 20"/><path d="M12 -30Q34 0 12 30"/><path d="M24 -40Q54 0 24 40"/>
+  </g>
+
+  <!-- chip -->
+  <g transform="translate(56 150)">
+    <rect width="96" height="74" rx="12" fill="url(#chip)"/>
+    <g stroke="#555" stroke-width="1.6" fill="none">
+      <rect x="0.8" y="0.8" width="94.4" height="72.4" rx="11.5"/>
+      <path d="M0 25H32M0 49H32M64 25H96M64 49H96M32 0V74M64 0V74"/>
+      <rect x="32" y="25" width="32" height="24" rx="5"/>
+    </g>
+  </g>
+
+  <!-- status -->
+  <g transform="translate(190 187)">
+    <circle cx="6" cy="0" r="6" fill="#fff" class="pulse"/>
+    <text x="22" y="6" fill="#E5E5E5" font-size="18" font-weight="600">Open for projects</text>
+  </g>
+
+  <!-- number-style line -->
+  <text x="56" y="316" class="mono" fill="white" font-size="38" font-weight="600" letter-spacing="5">FULL STACK DEV</text>
+
+  <!-- tags as small caps line -->
+  <text x="56" y="358" fill="#9A9A9A" font-size="16" font-weight="500" letter-spacing="2.5">WEBSITES · WEB APPS · STORES · UI/UX · MAINTENANCE</text>
+
+  <!-- bottom -->
+  <text x="56" y="432" fill="#7A7A7A" font-size="12" letter-spacing="2">CARD HOLDER</text>
+  <text x="56" y="468" fill="white" font-size="30" font-weight="600" letter-spacing="2">NAQUTH</text>
+
+  <text x="470" y="432" fill="#7A7A7A" font-size="12" letter-spacing="2">WEBSITE</text>
+  <text x="470" y="468" class="mono" fill="white" font-size="22" font-weight="600">naquth.my.id</text>
+
+  <text x="470" y="498" fill="#7A7A7A" font-size="12" letter-spacing="2">GITHUB</text>
+  <text x="560" y="498" class="mono" fill="#D8D8D8" font-size="16" font-weight="500">github.com/naquth</text>
+
+  <!-- logo circles -->
+  <g transform="translate(776 466)" fill="none" stroke="white" stroke-width="3">
+    <circle cx="-14" r="22" stroke-opacity="0.9"/><circle cx="14" r="22" stroke-opacity="0.5"/>
+  </g>
+</svg>

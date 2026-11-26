@@ -1,6 +1,0 @@
-<svg width="132" height="34" viewBox="0 0 132 34" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="github/naquth">
-  <rect x="0.5" y="0.5" width="131" height="33" rx="9" fill="#000"/>
-  <rect x="0.5" y="0.5" width="131" height="33" rx="9" stroke="#3a3a3a"/>
-  <g transform="translate(20 17)" stroke="#fff" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" fill="none"><circle cx="-3.5" cy="-5" r="2"/><circle cx="-3.5" cy="5" r="2"/><circle cx="4" cy="-1.5" r="2"/><path d="M-3.5 -3V3M4 0.5C4 2.5 -3.5 1.8 -3.5 3"/></g>
-  <text x="36" y="21.5" fill="#fff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">github/naquth</text>
-</svg>

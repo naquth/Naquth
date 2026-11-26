@@ -1,9 +1,5 @@
-
-<img src="./assets/profile-banner-v3.svg" alt="Naquth - Full Stack Developer" width="100%" />
-
 <p align="center">
-  <a href="https://naquth.my.id"><img src="./assets/badge-website-v2.svg" alt="Website" width="132" height="34" /></a>
-  <a href="https://github.com/naquth"><img src="./assets/badge-github-v2.svg" alt="GitHub" width="132" height="34" /></a>
+  <a href="https://naquth.my.id"><img src="./assets/profile-card-v1.svg" alt="Naquth - Full Stack Developer" width="480" /></a>
 </p>
 
 ---
