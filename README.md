@@ -1,5 +1,4 @@
 <div align="center">
-    <h2>👤 About Me</h2>
     <a href="https://naquth.my.id"><img src="./assets/profile-card-v2.svg" alt="About Naquth - Full Stack Developer" /></a>
 </div>
 
