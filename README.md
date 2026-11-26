@@ -140,15 +140,15 @@ Web developer at [Naquth](https://naquth.my.id) — I design and build websites,
 <div align="center">
     <h2>💻 Profile Stats</h2>
     <a href="https://naquth.my.id" target="_blank">
-        <img src="https://lanyard.cnrad.dev/api/1483987111601377390" alt="Discord Status"/>
+        <img src="https://lanyard.cnrad.dev/api/1483987111601377390?theme=dark&bg=000000" alt="Discord Status"/>
     </a>
     <br/>
     <a href="https://naquth.my.id" target="_blank">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ujd54xt3ft6dcnvgge4nnlo3zq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify"/>
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ujd54xt3ft6dcnvgge4nnlo3zq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=false" alt="Spotify"/>
     </a>
     <br/>
-    <a href="https://open.spotify.com/user/31ujd54xt3ft6dcnvgge4nnlo3zq" target="_blank">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ujd54xt3ft6dcnvgge4nnlo3zq" alt="Spotify Recent"/>
+    <a href="https://widgets.1ceit.com/naquth/spotify?open" target="_blank">
+        <img src="https://widgets.1ceit.com/naquth/spotify" alt="Spotify Now Playing"/>
     </a>
 </div>
 
