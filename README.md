@@ -168,10 +168,6 @@ Web developer at [Naquth](https://naquth.my.id) — I design and build websites,
 
 
 <div align="center">
-    <h3>✍️ Random Dev Quote</h3>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"/>
-</div>
-
-<div align="center">
+    <h3>👀 Visitor Counter</h3>
     <img src="https://count.getloli.com/@:naquth?theme=asoul&length=7" alt="Visitor Counter"/>
 </div>
