@@ -16,123 +16,45 @@ Web developer at [Naquth](https://naquth.my.id) — I design and build websites,
 # 💻 Tech Stack:
 <div align="center">
     <h2>💻 Tech Stack</h2>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/>
-    </a>
-    <a href="https://react.dev/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=react" alt="React"/>
-    </a>
-    <a href="https://nextjs.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/>
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js"/>
-    </a>
-    <a href="https://nuxt.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=nuxtjs" alt="Nuxt"/>
-    </a>
-    <a href="https://svelte.dev/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte"/>
-    </a>
-    <a href="https://astro.build/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=astro" alt="Astro"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/>
-    </a>
-    <a href="https://vite.dev/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=vite" alt="Vite"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=figma" alt="Figma"/>
-    </a>
-    <a href="https://wordpress.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress"/>
-    </a>
-    <a href="https://nodejs.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS"/>
-    </a>
-    <a href="https://bun.sh" target="_blank">
-        <img src="https://skillicons.dev/icons?i=bun" alt="Bun"/>
-    </a>
-    <a href="https://expressjs.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=express" alt="Express"/>
-    </a>
-    <a href="https://nestjs.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS"/>
-    </a>
-    <a href="https://www.php.net/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=php" alt="PHP"/>
-    </a>
-    <a href="https://laravel.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel"/>
-    </a>
-    <a href="https://www.python.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=django" alt="Django"/>
-    </a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/>
-    </a>
-    <a href="https://go.dev/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=go" alt="Go"/>
-    </a>
-    <a href="https://www.java.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java"/>
-    </a>
-    <a href="https://www.rust-lang.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=rust" alt="Rust"/>
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=bash" alt="Shell Script"/>
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
-    </a>
-    <a href="https://redis.io/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=redis" alt="Redis"/>
-    </a>
-    <a href="https://supabase.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase"/>
-    </a>
-    <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"/>
-    </a>
-    <a href="https://www.prisma.io/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
-    </a>
-    <a href="https://www.cloudflare.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare"/>
-    </a>
-    <a href="https://vercel.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel"/>
-    </a>
-    <a href="https://www.netlify.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify"/>
-    </a>
-    <a href="https://github.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-    </a>
+    <img src="https://img.shields.io/badge/HTML5-18181b?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS-18181b?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+    <img src="https://img.shields.io/badge/JavaScript-18181b?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/TypeScript-18181b?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/React-18181b?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+    <img src="https://img.shields.io/badge/Next.js-18181b?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Vue.js-18181b?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+    <img src="https://img.shields.io/badge/Nuxt-18181b?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt"/>
+    <img src="https://img.shields.io/badge/Svelte-18181b?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
+    <img src="https://img.shields.io/badge/Astro-18181b?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-18181b?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/Vite-18181b?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+    <img src="https://img.shields.io/badge/Figma-18181b?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+    <img src="https://img.shields.io/badge/WordPress-18181b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+    <img src="https://img.shields.io/badge/NodeJS-18181b?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS"/>
+    <img src="https://img.shields.io/badge/Bun-18181b?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"/>
+    <img src="https://img.shields.io/badge/Express-18181b?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+    <img src="https://img.shields.io/badge/NestJS-18181b?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+    <img src="https://img.shields.io/badge/PHP-18181b?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+    <img src="https://img.shields.io/badge/Laravel-18181b?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+    <img src="https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Django-18181b?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+    <img src="https://img.shields.io/badge/FastAPI-18181b?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/Go-18181b?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+    <img src="https://img.shields.io/badge/Java-18181b?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Rust-18181b?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+    <img src="https://img.shields.io/badge/Shell-18181b?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-18181b?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/MySQL-18181b?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/MongoDB-18181b?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/Redis-18181b?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+    <img src="https://img.shields.io/badge/Supabase-18181b?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+    <img src="https://img.shields.io/badge/Firebase-18181b?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/Prisma-18181b?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+    <img src="https://img.shields.io/badge/Docker-18181b?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Cloudflare-18181b?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+    <img src="https://img.shields.io/badge/Vercel-18181b?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+    <img src="https://img.shields.io/badge/Netlify-18181b?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+    <img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
 ---
@@ -141,10 +63,6 @@ Web developer at [Naquth](https://naquth.my.id) — I design and build websites,
     <h2>💻 Profile Stats</h2>
     <a href="https://naquth.my.id" target="_blank">
         <img src="https://lanyard.cnrad.dev/api/1483987111601377390?theme=dark&bg=000000" alt="Discord Status"/>
-    </a>
-    <br/>
-    <a href="https://naquth.my.id" target="_blank">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ujd54xt3ft6dcnvgge4nnlo3zq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=false" alt="Spotify"/>
     </a>
     <br/>
     <a href="https://widgets.1ceit.com/naquth/spotify?open" target="_blank">
