@@ -16,6 +16,8 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v3
         id: snake
+        env:
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
         with:
           github_user_name: naquth
           outputs: |
