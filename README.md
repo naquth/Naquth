@@ -49,5 +49,5 @@
 
 <div align="center">
     <h2>👀 Visitor Counter</h2>
-    <img src="https://hits.sh/github.com/naquth.svg?style=for-the-badge&label=VISITORS&color=1a1a1a&labelColor=000000&extraCount=69" alt="Visitor Counter"/>
+    <img src="https://widgets.1ceit.com/naquth/views" alt="Visitor Counter"/>
 </div>
