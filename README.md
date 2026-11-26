@@ -1,48 +1,14 @@
 
-<h1 align="center">Hi, I'm Naquth 👋</h1>
-
-<p align="center">
-  <b>Design. Build. Launch.</b><br/>
-  Web development studio that builds company sites, web apps, and online stores,<br/>
-  then keeps them healthy after launch.
-</p>
-
-<p align="center">
-  <a href="https://naquth.my.id"><img src="https://img.shields.io/badge/Website-naquth.my.id-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-  <img src="https://img.shields.io/badge/Status-Taking%20new%20projects-22c55e?style=for-the-badge" alt="Status"/>
-  <a href="https://github.com/naquth"><img src="https://img.shields.io/badge/GitHub-naquth-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
-<br/>
-
 <div align="center">
 
-| | |
-|:--|:--|
-| 🏢 **Studio** | [Naquth](https://naquth.my.id) |
-| 🛠️ **What I do** | Company websites · Web apps · Online stores · UI/UX · Maintenance |
-| 💬 **Let's talk** | First consultation is free → [naquth.my.id](https://naquth.my.id) |
+## Hi, I'm Naquth 👋
 
-</div>
+Web developer at [Naquth](https://naquth.my.id) — I design and build websites, web apps, and online stores.
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="320">
-      <h3>🌱 Currently Learning</h3>
-      <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" height="48" alt="Go"/></a>
-      <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" height="48" alt="Rust"/></a>
-      <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="48" alt="Java"/></a>
-      <br/><sub>Go · Rust · Java</sub>
-    </td>
-    <td align="center" width="320">
-      <h3>🤖 Discord Bots</h3>
-      <a href="https://seyfert.dev"><img src="https://img.shields.io/badge/Seyfert-5865F2?style=for-the-badge" alt="Seyfert"/></a>
-      <a href="https://discord.js.org/"><img src="https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord.js"/></a>
-      <br/><sub>Built with Seyfert &amp; discord.js</sub>
-    </td>
-  </tr>
-</table>
+🛠️ Company websites · Web apps · Online stores · UI/UX · Maintenance<br/>
+💬 First consultation is free<br/>
+🌐 [naquth.my.id](https://naquth.my.id)
+
 </div>
 
 ---
