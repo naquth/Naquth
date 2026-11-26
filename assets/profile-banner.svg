@@ -1,6 +1,6 @@
 <svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Naquth Profile Banner</title>
-  <desc id="desc">Black and white glass-style banner with the name Naquth, subtitle Web Developer, and service tags.</desc>
+  <desc id="desc">Black and white glass-style banner with the name Naquth and service tags.</desc>
   <style>
     .float1 { animation: f1 7s ease-in-out infinite; }
     .float2 { animation: f2 9s ease-in-out infinite; }
@@ -66,31 +66,30 @@
 
   <!-- accent bar -->
   <g class="shine">
-    <path d="M124 104H278" stroke="white" stroke-opacity="0.9" stroke-width="8" stroke-linecap="round"/>
-    <path d="M124 104H222" stroke="black" stroke-opacity="0.45" stroke-width="2" stroke-linecap="round"/>
+    <path d="M124 110H278" stroke="white" stroke-opacity="0.9" stroke-width="8" stroke-linecap="round"/>
+    <path d="M124 110H222" stroke="black" stroke-opacity="0.45" stroke-width="2" stroke-linecap="round"/>
   </g>
 
   <g class="rise">
-    <text x="124" y="168" fill="white" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="0.4">Naquth</text>
-    <text x="124" y="209" fill="#CFCFCF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="500">Web Developer · Websites · Web Apps · Online Stores</text>
+    <text x="124" y="184" fill="white" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="0.4">Naquth</text>
   </g>
 
   <g opacity="0.96">
-    <rect x="124" y="238" width="168" height="34" rx="17" fill="url(#tagFill)"/>
-    <rect x="124.5" y="238.5" width="167" height="33" rx="16.5" stroke="white" stroke-opacity="0.18"/>
-    <text x="208.0" y="260" text-anchor="middle" fill="#E5E5E5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="500">Company Websites</text>
-    <rect x="306" y="238" width="101" height="34" rx="17" fill="url(#tagFill)"/>
-    <rect x="306.5" y="238.5" width="100" height="33" rx="16.5" stroke="white" stroke-opacity="0.18"/>
-    <text x="356.5" y="260" text-anchor="middle" fill="#E5E5E5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="500">Web Apps</text>
-    <rect x="421" y="238" width="143" height="34" rx="17" fill="url(#tagFill)"/>
-    <rect x="421.5" y="238.5" width="142" height="33" rx="16.5" stroke="white" stroke-opacity="0.18"/>
-    <text x="492.5" y="260" text-anchor="middle" fill="#E5E5E5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="500">Online Stores</text>
-    <rect x="578" y="238" width="76" height="34" rx="17" fill="url(#tagFill)"/>
-    <rect x="578.5" y="238.5" width="75" height="33" rx="16.5" stroke="white" stroke-opacity="0.18"/>
-    <text x="616.0" y="260" text-anchor="middle" fill="#E5E5E5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="500">UI/UX</text>
-    <rect x="668" y="238" width="126" height="34" rx="17" fill="url(#tagFill)"/>
-    <rect x="668.5" y="238.5" width="125" height="33" rx="16.5" stroke="white" stroke-opacity="0.18"/>
-    <text x="731.0" y="260" text-anchor="middle" fill="#E5E5E5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="500">Maintenance</text>
+    <rect x="124" y="226" width="168" height="34" rx="17" fill="url(#tagFill)"/>
+    <rect x="124.5" y="226.5" width="167" height="33" rx="16.5" stroke="white" stroke-opacity="0.18"/>
+    <text x="208.0" y="248" text-anchor="middle" fill="#E5E5E5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="500">Company Websites</text>
+    <rect x="306" y="226" width="101" height="34" rx="17" fill="url(#tagFill)"/>
+    <rect x="306.5" y="226.5" width="100" height="33" rx="16.5" stroke="white" stroke-opacity="0.18"/>
+    <text x="356.5" y="248" text-anchor="middle" fill="#E5E5E5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="500">Web Apps</text>
+    <rect x="421" y="226" width="143" height="34" rx="17" fill="url(#tagFill)"/>
+    <rect x="421.5" y="226.5" width="142" height="33" rx="16.5" stroke="white" stroke-opacity="0.18"/>
+    <text x="492.5" y="248" text-anchor="middle" fill="#E5E5E5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="500">Online Stores</text>
+    <rect x="578" y="226" width="76" height="34" rx="17" fill="url(#tagFill)"/>
+    <rect x="578.5" y="226.5" width="75" height="33" rx="16.5" stroke="white" stroke-opacity="0.18"/>
+    <text x="616.0" y="248" text-anchor="middle" fill="#E5E5E5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="500">UI/UX</text>
+    <rect x="668" y="226" width="126" height="34" rx="17" fill="url(#tagFill)"/>
+    <rect x="668.5" y="226.5" width="125" height="33" rx="16.5" stroke="white" stroke-opacity="0.18"/>
+    <text x="731.0" y="248" text-anchor="middle" fill="#E5E5E5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="500">Maintenance</text>
   </g>
 
   <!-- right floating glass card -->

@@ -2,8 +2,8 @@
 <img src="./assets/profile-banner.svg" alt="Naquth - Web Developer" width="100%" />
 
 <p align="center">
-  <a href="https://naquth.my.id"><img src="https://img.shields.io/badge/Website-naquth.my.id-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000&color=1a1a1a" alt="Website" /></a>
-  <a href="https://github.com/naquth"><img src="https://img.shields.io/badge/GitHub-naquth-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=1a1a1a" alt="GitHub" /></a>
+  <a href="https://naquth.my.id"><img src="./assets/badge-website.svg" alt="Website" height="40" /></a>
+  <a href="https://github.com/naquth"><img src="./assets/badge-github.svg" alt="GitHub" height="40" /></a>
 </p>
 
 ---
