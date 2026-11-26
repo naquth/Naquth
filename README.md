@@ -224,6 +224,12 @@ Web developer at [Naquth](https://naquth.my.id) — I design and build websites,
     <a href="https://widgets.1ceit.com/naquth/spotify?open" target="_blank">
         <img src="https://widgets.1ceit.com/naquth/spotify" alt="Spotify Now Playing"/>
     </a>
+    <br/>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naquth/naquth/output/snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naquth/naquth/output/snake.svg">
+        <img src="https://raw.githubusercontent.com/naquth/naquth/output/snake-dark.svg" alt="Snake animation"/>
+    </picture>
 </div>
 
 ---
