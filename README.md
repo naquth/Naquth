@@ -49,5 +49,5 @@
 
 <div align="center">
     <h2>👀 Visitor Counter</h2>
-    <img src="https://widgets.1ceit.com/naquth/views" alt="Visitor Counter"/>
+    <img src="https://count.getloli.com/@:naquth?theme=original-new&length=7" alt="Visitor Counter" width="410"/>
 </div>
