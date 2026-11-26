@@ -169,11 +169,9 @@ Web developer at [Naquth](https://naquth.my.id) — I design and build websites,
 
 <div align="center">
     <h3>✍️ Random Dev Quote</h3>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"/>
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <div align="center">
-    <img src="https://count.getloli.com/@:naquth" alt="Visitor Counter"/>
+    <img src="https://count.getloli.com/@:naquth?theme=capoo-1&length=7" alt="Visitor Counter"/>
 </div>
