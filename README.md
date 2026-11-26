@@ -21,8 +21,8 @@
         <img src="https://lanyard.cnrad.dev/api/1483987111601377390?theme=dark&bg=000000&hideActivity=whenNotUsed&borderRadius=10px" alt="Discord Status" width="410"/>
     </a>
     <br/>
-    <a href="https://widgets.1ceit.com/naquth/spotify?open" target="_blank">
-        <img src="https://widgets.1ceit.com/naquth/spotify" alt="Spotify Now Playing" width="410"/>
+    <a href="https://open.spotify.com/user/31ujd54xt3ft6dcnvgge4nnlo3zq" target="_blank">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ujd54xt3ft6dcnvgge4nnlo3zq&theme=compact&background_color=000000&bar_color=ffffff&border_radius=10&show_offline=true" alt="Spotify Now Playing" width="410"/>
     </a>
 </div>
 
